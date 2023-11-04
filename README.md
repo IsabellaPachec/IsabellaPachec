@@ -17,7 +17,7 @@
 
 <h2>My Skills</h2>
  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,reactjs">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react">
   </p>
  
 <div align="center">  
