@@ -1,13 +1,13 @@
 
 
 <h1>✨ Isabella Pacheco ✨</h1>
-
+<br>
 - 💙 Aluna do Instituto Proa
 - 📚 Sempre aprendendo e evoluindo
 - 🧠 Gosto de desafios, e estou sempre pronta para eles
 - 🌟 Criatividade
 
-<br> <br>
+<br> 
 
 <h2> 📞 Contato </h2>
  <p align="center">
