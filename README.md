@@ -1,11 +1,11 @@
 
 
 <h1>✨ Isabella Pacheco ✨</h1>
-- 💾 Futura cientista de dados
-- 💙 Ex Aluna do Instituto Proa
-- 📚 Sempre aprendendo e evoluindo
-- 🧠 Gosto de desafios, e estou sempre pronta para eles
-- 🌟 Criatividade
+- 💾 Futura cientista de dados <br>
+- 💙 Ex Aluna do Instituto Proa  <br>
+- 📚 Sempre aprendendo e evoluindo  <br>
+- 🧠 Gosto de desafios, e estou sempre pronta para eles  <br>
+- 🌟 Criatividade  <br>
 
 <br> 
 
