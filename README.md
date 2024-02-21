@@ -12,7 +12,6 @@
 <h2> 📞 Contato </h2>
  <p align="center">
     <a href="https://www.linkedin.com/in/isabella-pacheco-2a5a42259/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-    <a href="https://www.instagram.com/bella_isaisa/"><img src="https://skillicons.dev/icons?i=instagram"></a>
   </p>
 
 <h2>My Skills</h2>
